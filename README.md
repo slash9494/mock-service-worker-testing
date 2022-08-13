@@ -6,7 +6,7 @@
 ## Purpose
 
 > `msw` is useful for **frontend-developer** because most FE-developers would start project development without prepared API server, and they will work with mock-data
-So this repo test simple form fetch features like login,register,authChecking with `msw` and the latest stacks
+So this repo test simple form fetch features like login,register,authChecking with `msw`
 > 
 
 ## Project Setup
